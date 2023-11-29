@@ -1,5 +1,6 @@
 # BritishAirways_Virtual_Experience
-![image](https://github.com/Rayonushi/BritishAirways_Virtual_Experience/assets/91659975/c77ea3e4-600e-4892-9b1c-94ac0eda763f)
+
+![image](https://github.com/Rayonushi/BritishAirways_Virtual_Experience/assets/91659975/44cc6069-11c9-46e0-80a5-c701e68ba120)
 
 During this programme, you will have the opportunity to step into the shoes of a British Airways team member and complete tasks that replicate the work that our Data Science team does every day.
 
